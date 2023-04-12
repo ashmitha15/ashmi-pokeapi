@@ -1,0 +1,145 @@
+ h1{
+      font-size: 3vw;
+      text-align: center;
+      font-family: 'Dancing Script';
+      color:#FFFFFF;
+  }
+  h3{
+    text-align: center;
+    font-style: italic;
+    font-size: 1.7vw;
+    font-family: 'Alkatra';
+    color: aquamarine;
+    text-transform: uppercase;
+    
+  }
+  h4{
+    font-size: 0.8vw;
+  }
+
+  p{
+    text-align: center;
+    font-family: 'Satisfy';
+    font-size: 1.5vw;
+    text-decoration: underline;
+    color: rgb(214, 214, 95);
+  
+  }
+
+  img{
+    width: 60%;
+    height: auto;
+  }
+
+  #logo{
+    width: 5%;
+    height: auto;
+    margin-right: 0.5vw;
+    transition: transform 0.8s ease-in-out;
+  }
+  #logo:hover {
+    transform: rotate(360deg);
+  }
+  
+  #poke-img{
+    width: 15%;
+    height: auto;
+    transition: transform 0.8s ease-in-out;
+  }
+
+  #poke-img:hover{
+    transform: rotate(360deg);
+  }
+
+  .logo-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .container-card{
+    display: flex;
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #33697d;
+    width: 15%;
+    height: auto;
+    margin : 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px #aaaaaa;;
+    transition: all;
+
+  }
+  .container-card:hover{
+    background-color: rgb(183, 100, 115);
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out;
+  }
+
+
+
+button{
+ text-align: center;
+ font-size: 0.8vw;
+ font-weight: bold;
+ background-color: rgb(225, 201, 173);
+
+  width: 5vw;
+  height: 2vw;
+  padding: 0.3vw;
+  border-radius: 0.3vw;
+  transition: all;
+}
+
+button:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+
+}
+
+
+
+.container-pokemon {
+  display: flex;
+  display: inline-block;
+  justify-content: center;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px 5px #aaaaaa;;
+  border: 1px solid black;
+  width: 70%;
+  height: auto; 
+  margin-left: 15vw;
+  margin-top: 5vw;
+  margin-bottom: 3vw;
+}
+
+.moves{
+  display: flex;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: 5px 5px 5px 5px #aaaaaa;;
+  font-size: 1vw;
+  font-weight: bold;
+  font-family: 'Playfair Display', sans-serif;
+  width: 30%;
+  height: auto; 
+  margin-left: 25vw;
+  color:#cbb8ae;
+  margin-bottom: 3vw;
+  transition: all;
+}
+.moves:hover{
+  transform: scaleX(1.2);
+  transition: transform 0.5s ease-in-out;
+}
+
+ul{
+  list-style: none;
+}
+
+
