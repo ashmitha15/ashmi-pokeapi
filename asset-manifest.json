@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ashmi-pokapi/static/css/main.4d860d0c.css",
-    "main.js": "/ashmi-pokapi/static/js/main.9297a1fe.js",
-    "static/js/787.ab378faf.chunk.js": "/ashmi-pokapi/static/js/787.ab378faf.chunk.js",
-    "static/media/pikachu1.jpg": "/ashmi-pokapi/static/media/pikachu1.7ef77b3e8f6adf975f63.jpg",
-    "index.html": "/ashmi-pokapi/index.html",
-    "main.4d860d0c.css.map": "/ashmi-pokapi/static/css/main.4d860d0c.css.map",
-    "main.9297a1fe.js.map": "/ashmi-pokapi/static/js/main.9297a1fe.js.map",
-    "787.ab378faf.chunk.js.map": "/ashmi-pokapi/static/js/787.ab378faf.chunk.js.map"
+    "main.css": "/static/css/main.4d860d0c.css",
+    "main.js": "/static/js/main.cb24beb4.js",
+    "static/js/787.ab378faf.chunk.js": "/static/js/787.ab378faf.chunk.js",
+    "static/media/pikachu1.jpg": "/static/media/pikachu1.7ef77b3e8f6adf975f63.jpg",
+    "index.html": "/index.html",
+    "main.4d860d0c.css.map": "/static/css/main.4d860d0c.css.map",
+    "main.cb24beb4.js.map": "/static/js/main.cb24beb4.js.map",
+    "787.ab378faf.chunk.js.map": "/static/js/787.ab378faf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d860d0c.css",
-    "static/js/main.9297a1fe.js"
+    "static/js/main.cb24beb4.js"
   ]
 }
