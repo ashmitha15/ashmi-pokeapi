@@ -22,8 +22,3 @@ Steps:
    iii.Run the command on the terminal: npm start
    iv. Now the app is running on the local interface "http://127.0.0.1:5000/"
    v. To stop the local interface, click ctrl+c
-
-
-
-6. To view the Application on Azure, click on
-"https://ashmi-react.azurewebsites.net/"

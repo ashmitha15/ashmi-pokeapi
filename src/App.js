@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <div>
-    <ParticlesBg type="cobWeb" color='#FFFFFF' num={150} bg={true} />
+    <ParticlesBg type="cobWeb" color='#FFFFFF'  bg={true} />
     <Router>
       <Routes>
         <Route
