@@ -1,0 +1,3 @@
+# https://www.pokemontxt.org/pokemontxt.html
+User-agent: *
+Disallow:
