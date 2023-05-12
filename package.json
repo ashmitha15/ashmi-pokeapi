@@ -1,6 +1,5 @@
 {
   "name": "pokemon",
-  "homepage": "https://ashmitha15.github.io/ashmi-pokeapi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
